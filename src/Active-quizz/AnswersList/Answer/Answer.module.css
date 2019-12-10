@@ -1,0 +1,16 @@
+.Answer {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.Answer:hover {
+    background: rgb(255, 246, 163);
+}
+.AnswerItem.success {
+    background: rgb(108, 175, 42);
+}
+.AnswerItem.error {
+    background: crimson;
+}
