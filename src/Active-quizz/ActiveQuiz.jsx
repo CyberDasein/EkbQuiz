@@ -7,7 +7,7 @@ const ActiveQuiz = props => (
         <p className={classes.Question}>
             <div>
                 <small>{props.answerNumber} из {props.quizLength}</small> <br/>
-                <img className={classes.img} src={props.questionPickture}></img>
+                <img className={ props.questionPickture ? classes.img : ''}  src={props.questionPickture}></img>
 
                 <div> 
                     <strong>{props.answerNumber}</strong>&nbsp; 
