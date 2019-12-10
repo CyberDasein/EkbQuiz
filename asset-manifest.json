@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/EkbQuiz/static/css/main.d3bd0ac0.chunk.css",
+    "main.js": "/EkbQuiz/static/js/main.fca9c5f5.chunk.js",
+    "main.js.map": "/EkbQuiz/static/js/main.fca9c5f5.chunk.js.map",
+    "runtime-main.js": "/EkbQuiz/static/js/runtime-main.d7d0c998.js",
+    "runtime-main.js.map": "/EkbQuiz/static/js/runtime-main.d7d0c998.js.map",
+    "static/js/2.f39d32ad.chunk.js": "/EkbQuiz/static/js/2.f39d32ad.chunk.js",
+    "static/js/2.f39d32ad.chunk.js.map": "/EkbQuiz/static/js/2.f39d32ad.chunk.js.map",
+    "index.html": "/EkbQuiz/index.html",
+    "precache-manifest.635c88cf11f315234684bf62ec7b953b.js": "/EkbQuiz/precache-manifest.635c88cf11f315234684bf62ec7b953b.js",
+    "service-worker.js": "/EkbQuiz/service-worker.js",
+    "static/css/main.d3bd0ac0.chunk.css.map": "/EkbQuiz/static/css/main.d3bd0ac0.chunk.css.map",
+    "static/media/597711cba19eb_0d739cac3d42d04c2e69c4cddf62f354.jpg": "/EkbQuiz/static/media/597711cba19eb_0d739cac3d42d04c2e69c4cddf62f354.3eb3214f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7d0c998.js",
+    "static/js/2.f39d32ad.chunk.js",
+    "static/css/main.d3bd0ac0.chunk.css",
+    "static/js/main.fca9c5f5.chunk.js"
+  ]
+}
